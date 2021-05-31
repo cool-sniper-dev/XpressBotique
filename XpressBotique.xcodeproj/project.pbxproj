@@ -11,6 +11,7 @@
 		4628EB232664C87F00FC6694 /* ShoeDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4628EB222664C87F00FC6694 /* ShoeDetailView.swift */; };
 		4628EB262664CB3600FC6694 /* BootsCartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4628EB252664CB3600FC6694 /* BootsCartView.swift */; };
 		4628EB292664CC6600FC6694 /* BootsDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4628EB282664CC6600FC6694 /* BootsDetailView.swift */; };
+		4628EB5D2664D9BF00FC6694 /* AccountView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4628EB5C2664D9BF00FC6694 /* AccountView.swift */; };
 		46956CA42660FBFF0012F00E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46956CA32660FBFF0012F00E /* AppDelegate.swift */; };
 		46956CA62660FBFF0012F00E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46956CA52660FBFF0012F00E /* SceneDelegate.swift */; };
 		46956CA82660FBFF0012F00E /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46956CA72660FBFF0012F00E /* HomeView.swift */; };
@@ -30,6 +31,7 @@
 		4628EB222664C87F00FC6694 /* ShoeDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoeDetailView.swift; sourceTree = "<group>"; };
 		4628EB252664CB3600FC6694 /* BootsCartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BootsCartView.swift; sourceTree = "<group>"; };
 		4628EB282664CC6600FC6694 /* BootsDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BootsDetailView.swift; sourceTree = "<group>"; };
+		4628EB5C2664D9BF00FC6694 /* AccountView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountView.swift; sourceTree = "<group>"; };
 		46956CA02660FBFF0012F00E /* XpressBotique.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XpressBotique.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		46956CA32660FBFF0012F00E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		46956CA52660FBFF0012F00E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -125,6 +127,7 @@
 				4628EB1F2664C6C200FC6694 /* JacketDetailView.swift */,
 				4628EB222664C87F00FC6694 /* ShoeDetailView.swift */,
 				4628EB282664CC6600FC6694 /* BootsDetailView.swift */,
+				4628EB5C2664D9BF00FC6694 /* AccountView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -203,6 +206,7 @@
 				4628EB292664CC6600FC6694 /* BootsDetailView.swift in Sources */,
 				4628EB232664C87F00FC6694 /* ShoeDetailView.swift in Sources */,
 				4628EB262664CB3600FC6694 /* BootsCartView.swift in Sources */,
+				4628EB5D2664D9BF00FC6694 /* AccountView.swift in Sources */,
 				46956CA42660FBFF0012F00E /* AppDelegate.swift in Sources */,
 				46956CC02660FC970012F00E /* Clothing.swift in Sources */,
 				4628EB202664C6C200FC6694 /* JacketDetailView.swift in Sources */,

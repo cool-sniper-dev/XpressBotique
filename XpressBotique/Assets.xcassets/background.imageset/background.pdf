@@ -1,0 +1,181 @@
+%PDF-1.7
+
+1 0 obj
+  << /Length 2 0 R
+     /FunctionType 4
+     /Domain [ 0.000000 1.000000 ]
+     /Range [ 0.000000 1.000000 0.000000 1.000000 0.000000 1.000000 ]
+  >>
+stream
+{  0.658333 exch 0.422431 exch 0.068576 exch dup 0.000000 gt { exch pop exch pop exch pop dup 0.000000 sub -0.380752 mul 0.658333 add exch dup 0.000000 sub 0.064289 mul 0.422431 add exch dup 0.000000 sub 0.599704 mul 0.068576 add exch } if dup 0.257671 gt { exch pop exch pop exch pop dup 0.257671 sub -0.380752 mul 0.560224 add exch dup 0.257671 sub 0.064289 mul 0.438996 add exch dup 0.257671 sub 0.599704 mul 0.223103 add exch } if dup 0.733289 gt { exch pop exch pop exch pop dup 0.733289 sub 1.460368 mul 0.379132 add exch dup 0.733289 sub 1.121270 mul 0.469573 add exch dup 0.733289 sub 0.975943 mul 0.508333 add exch } if dup 1.000000 gt { exch pop exch pop exch pop 0.768627 exch 0.768627 exch 0.768627 exch } if pop }
+endstream
+endobj
+
+2 0 obj
+  726
+endobj
+
+3 0 obj
+  << /Length 4 0 R
+     /FunctionType 4
+     /Domain [ 0.000000 1.000000 ]
+     /Range [ 0.000000 1.000000 ]
+  >>
+stream
+{  1.000000 exch dup 0.000000 gt { exch pop dup 0.000000 sub -1.179048 mul 1.000000 add exch } if dup 0.257671 gt { exch pop dup 0.257671 sub -1.179048 mul 0.696193 add exch } if dup 0.733289 gt { exch pop dup 0.733289 sub -0.507729 mul 0.135417 add exch } if dup 1.000000 gt { exch pop 0.000000 exch } if pop }
+endstream
+endobj
+
+4 0 obj
+  311
+endobj
+
+5 0 obj
+  << /Type /XObject
+     /Length 6 0 R
+     /Group << /Type /Group
+               /S /Transparency
+               /CS /DeviceGray
+            >>
+     /Subtype /Form
+     /Resources << /Pattern << /P1 << /Matrix [ 404.500000 -896.000000 896.000000 404.500000 -894.391602 487.937317 ]
+                                      /Shading << /Coords [ 0.000000 0.000000 1.000000 0.000000 ]
+                                                  /Extend [ true true ]
+                                                  /Domain [ 0.000000 1.000000 ]
+                                                  /ShadingType 2
+                                                  /ColorSpace /DeviceGray
+                                                  /Function 3 0 R
+                                               >>
+                                      /PatternType 2
+                                      /Type /Pattern
+                                   >> >> >>
+     /BBox [ 0.000000 0.000000 414.000000 896.000000 ]
+  >>
+stream
+/DeviceGray CS
+/DeviceGray cs
+1.000000 0.000000 -0.000000 1.000000 0.000000 0.000000 cm
+0.000000 896.000000 m
+414.000000 896.000000 l
+414.000000 0.000000 l
+0.000000 0.000000 l
+0.000000 896.000000 l
+h
+/Pattern cs
+/P1 scn
+f
+n
+
+endstream
+endobj
+
+6 0 obj
+  224
+endobj
+
+7 0 obj
+  << /Pattern << /P1 << /Matrix [ 404.500000 -896.000000 896.000000 404.500000 -894.391602 487.937317 ]
+                        /Shading << /Coords [ 0.000000 0.000000 1.000000 0.000000 ]
+                                    /Extend [ true true ]
+                                    /Domain [ 0.000000 1.000000 ]
+                                    /ShadingType 2
+                                    /ColorSpace /DeviceRGB
+                                    /Function 1 0 R
+                                 >>
+                        /PatternType 2
+                        /Type /Pattern
+                     >> >>
+     /ExtGState << /E1 << /SMask << /Type /Mask
+                                    /G 5 0 R
+                                    /S /Luminosity
+                                 >>
+                          /Type /ExtGState
+                       >> >>
+  >>
+endobj
+
+8 0 obj
+  << /Length 9 0 R >>
+stream
+/DeviceRGB CS
+/DeviceRGB cs
+q
+1.000000 0.000000 -0.000000 1.000000 0.000000 0.000000 cm
+1.000000 1.000000 1.000000 scn
+0.000000 896.000000 m
+414.000000 896.000000 l
+414.000000 0.000000 l
+0.000000 0.000000 l
+0.000000 896.000000 l
+h
+f
+n
+Q
+q
+/E1 gs
+1.000000 0.000000 -0.000000 1.000000 0.000000 0.000000 cm
+/Pattern cs
+/P1 scn
+0.000000 896.000000 m
+414.000000 896.000000 l
+414.000000 0.000000 l
+0.000000 0.000000 l
+0.000000 896.000000 l
+h
+f
+n
+Q
+
+endstream
+endobj
+
+9 0 obj
+  442
+endobj
+
+10 0 obj
+  << /Annots []
+     /Type /Page
+     /MediaBox [ 0.000000 0.000000 414.000000 896.000000 ]
+     /Resources 7 0 R
+     /Contents 8 0 R
+     /Parent 11 0 R
+  >>
+endobj
+
+11 0 obj
+  << /Kids [ 10 0 R ]
+     /Count 1
+     /Type /Pages
+  >>
+endobj
+
+12 0 obj
+  << /Type /Catalog
+     /Pages 11 0 R
+  >>
+endobj
+
+xref
+0 13
+0000000000 65535 f
+0000000010 00000 n
+0000000920 00000 n
+0000000942 00000 n
+0000001401 00000 n
+0000001423 00000 n
+0000002679 00000 n
+0000002701 00000 n
+0000003589 00000 n
+0000004087 00000 n
+0000004109 00000 n
+0000004286 00000 n
+0000004362 00000 n
+trailer
+<< /ID [ (some) (id) ]
+   /Root 12 0 R
+   /Size 13
+>>
+startxref
+4423
+%%EOF

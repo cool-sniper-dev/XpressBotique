@@ -8,8 +8,10 @@
 import SwiftUI
 
 struct HomeView: View {
+
     @State var selectedButton: Int = 0
     @State private var search = ""
+  
     var body: some View {
         NavigationView {
             VStack(spacing:30){
@@ -30,14 +32,19 @@ struct HomeView: View {
                             })
                         }
                         Spacer()
-                        Button(action: /*@START_MENU_TOKEN@*/{}/*@END_MENU_TOKEN@*/, label: {
-                            Image("pp")
-                                .resizable()
-                                .frame(width: 38, height: 38)
-                                .cornerRadius(15)
-                        })
-                        
+                        NavigationLink(
+                            destination: AccountView(),
+                            label: {
+                                Image("pp")
+                                    .resizable()
+                                    .frame(width: 38, height: 38)
+                                    .cornerRadius(15)
+                            })
                     }.padding(.horizontal, 20)
+                    //Calling the Account view to Display in a Sheet
+                   
+                    
+                    
                     SearchAreaView()
                     CategoryButtonView(selectedButton: $selectedButton)
                         .frame(height: 50)
@@ -51,15 +58,19 @@ struct HomeView: View {
                     }else{
                         BootsCartView()
                     }
+                    //Calling the Account view to Display in a Sheet
                     
                     
                     
+   
                 }
                 .navigationBarTitle("")
                 .navigationBarHidden(true)
             }
         }
     }
+    
+    
     
     
 }
