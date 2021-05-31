@@ -41,11 +41,15 @@ struct HomeView: View {
                     SearchAreaView()
                     CategoryButtonView(selectedButton: $selectedButton)
                         .frame(height: 50)
+                    
+                    
                     if selectedButton == 0 {
                         
                         JacketCartView()
                     }else if selectedButton == 1 {
                         ShoeCartView()
+                    }else{
+                        BootsCartView()
                     }
                     
                     
@@ -56,6 +60,8 @@ struct HomeView: View {
             }
         }
     }
+    
+    
 }
 
 struct ContentView_Previews: PreviewProvider {

@@ -1,14 +1,14 @@
 //
-//  ShoeCartView.swift
+//  BootsCartView.swift
 //  XpressBotique
 //
-//  Created by IACD-Air-3 on 2021/05/28.
+//  Created by IACD-Air-3 on 2021/05/31.
 //
 
 import SwiftUI
 
-struct ShoeCartView: View {
-    var shoe: [Clothing] = ClothingList.shoesList
+struct BootsCartView: View {
+    var shoe: [Clothing] = ClothingList.bootsList
     
     
     let columns: [GridItem] = [
@@ -23,7 +23,7 @@ struct ShoeCartView: View {
             LazyVGrid(columns: columns) {
                 ForEach(shoe, id: \.id){ item in
                     NavigationLink(
-                        destination: ShoeDetailView(item: item),
+                        destination: BootsDetailView(item: item),
                         label: {
                             VStack(alignment: .leading, spacing: 3) {
                                 Image(item.imageName)

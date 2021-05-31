@@ -23,7 +23,7 @@ struct JacketCartView: View {
             LazyVGrid(columns: columns) {
                         ForEach(jacket, id: \.id){ item in
                             NavigationLink(
-                                destination: Text("Hello"),
+                                destination: JacketDetailView(item: item),
                                 label: {
                                     VStack(alignment: .leading, spacing: 3) {
                                         Spacer()
